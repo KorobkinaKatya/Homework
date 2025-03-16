@@ -1,0 +1,67 @@
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    font-family: "Inter", sans-serif;
+
+  }
+  main {
+    width: 600px;
+    height: 711px;
+    margin-top: 184x;
+    padding: 20px;
+    color: #ffffff;
+    background-color: #873DDB;
+    border-radius:18px;
+    text-align:center;
+    margin: 0 auto;
+    margin-top: 184px;
+  }
+  div {
+    border: 2px solid white;
+    border-radius: 8px;
+    margin: 12px;
+    padding: 12px 203px 12px 203px;
+  }
+  .avatar {
+    margin-top: 20px;
+    margin-bottom:0px;
+  }
+
+  .pi1 {    
+    font-size: 42px;
+    margin-top: 25px;
+    margin-bottom:0px;
+    line-height: normal;
+    color: #FFFFFF;
+  }
+  .pi2 {    
+    font-size: 22px;
+    margin-top: 8px;
+    margin-bottom:0px;
+    line-height: normal;
+    color: #FFFFFF;
+  }
+  .pi3{
+    font-size: 22px;
+    margin-top: 25px;
+    margin-bottom:0px;
+    line-height: normal;
+    color: #000000;
+  }
+
+  .b1{
+    background-color: #111D51;
+  }
+  .b2{
+    background-color: #1D318C;
+  }
+  .stars {
+    border: none;
+    height: 80px;
+    display: inline-block;
+    vertical-align: bottom;
+    padding:50px;
+  }
+  .stars img {
+    margin-right: 10px;
+  }
